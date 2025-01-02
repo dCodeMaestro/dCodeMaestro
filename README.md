@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dCodeMaestro
 - 👀 I’m interested in software development and everything related
-- 🌱 I’m currently learning android and web development together with cloud computing
-- 💞️ I’m looking to collaborate on mobile development projects 
+- 🌱 I’m currently learning artificial intelligence and its applications leveraging cloud computing
+- 💞️ I’m looking to collaborate on ai projects 
 - 📫 How to reach me 
 
 <!---
