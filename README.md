@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @dCodeMaestro
-- 👀 I’m interested in software development and everything related
-- 🌱 I’m currently learning artificial intelligence and its applications leveraging cloud computing
+- 👋 Hi, I’m samuel
+- 👀 I’m interested in artificial intellingence and its applications
 - 💞️ I’m looking to collaborate on ai projects 
 - 📫 How to reach me 
 
